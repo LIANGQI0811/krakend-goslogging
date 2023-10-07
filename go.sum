@@ -1,0 +1,6 @@
+github.com/luraproject/lura/v2 v2.3.0 h1:ZpdB6B+8LLSsvoCO3kLpDu0Uro/qImue5sbxhqcWbYg=
+github.com/luraproject/lura/v2 v2.3.0/go.mod h1:2OTHP8168FIPt2PvyAKgoFVSKO0hokz0rO68JjInaQs=
+github.com/op/go-logging v0.0.0-20160315200505-970db520ece7 h1:lDH9UUVJtmYCjyT0CI4q8xvlXPxeZ0gYCVvWbmPlp88=
+github.com/op/go-logging v0.0.0-20160315200505-970db520ece7/go.mod h1:HzydrMdWErDVzsI23lYNej1Htcns9BCg93Dk0bBINWk=
+golang.org/x/text v0.9.0 h1:2sjJmO8cDvYveuX97RDLsxlyUxLl+GHoLxBiRdHllBE=
+golang.org/x/text v0.9.0/go.mod h1:e1OnstbJyHTd6l/uOt8jFFHp6TRDWZR/bV3emEE/zU8=
